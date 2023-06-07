@@ -83,8 +83,16 @@ Microbit
 
 Έτσι, προγραμματίσαμε τον servo, ώστε όταν η υγρασία του χώματος είναι κάτω από 800 να κουνηθεί λίγο για να φτάσει στην αντλία και να την ενεργοποιήσει. 
 
+![image](https://github.com/EllinogermanikiAgogi1/EAsavingwater/assets/119315105/e16f2118-daf9-4944-9385-babbb94963cf)
+
+![image](https://github.com/EllinogermanikiAgogi1/EAsavingwater/assets/119315105/efa6d201-1863-4f40-a238-411f13e8e853)
+
+![image](https://github.com/EllinogermanikiAgogi1/EAsavingwater/assets/119315105/c9a071a2-de9a-4c7e-9a18-c1c9852bb093)
+
+
 Στο τέλος, κολλήσαμε την αντλία νερού στο πίσω μέρος και στη μέση της μακέτας. Γενικά, όμως, αντιμετωπίσαμε αρκετά προβλήματα με την αντλία και το τροφοδοτικό. Πολλές φορές το σωληνάκι της αντλίας κολλούσε με αποτέλεσμα να μην ρίχνει νερό στο χώμα. 
 
 ![image](https://github.com/EllinogermanikiAgogi1/EAsavingwater/assets/119315105/5abb882b-eb4d-4309-bed9-17555ec14f39)
 
+![image](https://github.com/EllinogermanikiAgogi1/EAsavingwater/assets/119315105/a3ed2986-3b9b-4f5d-a9aa-f05c0db915a8)
 
