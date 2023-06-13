@@ -110,7 +110,7 @@ Microbit
 
 ![image](https://github.com/EllinogermanikiAgogi1/EAsavingwater/assets/119315105/a3ed2986-3b9b-4f5d-a9aa-f05c0db915a8)
 
-Η ΠΑΡΟΥΣΙΑΣΗ ΤΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΤΟΥ ΑΥΤΟΜΑΤΟΥ ΠΟΤΙΣΜΑΤΟΣ
+Η ΠΑΡΟΥΣΙΑΣΗ ΤΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΤΟΥ PROJECT ΜΑΣ
 
 https://www.youtube.com/watch?v=f02awrFnnCw
 
